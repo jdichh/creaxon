@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"ndmn": "nodemon 1-sumArray.js"
+		"ndmn": "nodemon 2-averageArray.js"
 	},
 	"dependencies": {
 		"nodemon": "^3.1.0"
